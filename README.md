@@ -1,0 +1,1 @@
+this blockchain was created while making the blockchain mastering course at codecademy. I created bit by bit while following the course`s instructions and it is, with very little change, identical to their code. 
